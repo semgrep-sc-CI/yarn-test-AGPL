@@ -1,0 +1,11 @@
+{
+  "name": "yarn-test-AGPL",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/semgrep-sc-CI/yarn-test-AGPL",
+  "author": "Shi Chao <shi@semgrep.com>",
+  "license": "MIT",
+  "dependencies": {
+    "pm2": "4.5.6"
+  }
+}
